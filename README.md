@@ -15,10 +15,13 @@ generando la app para dispositivos Android.
 Como Autores del mismo estamos:
 
 Iván Barbosa Gutiérrez
+
 Cuenta GitHub: https://github.com/IvanBarbosa
 
 Ángel Bayón Romero
+
 Cuenta GitHub: Esta misma.
 
 Antonio Sánchez Roldán:
+
 Cuenta GitHub: https://github.com/Antojer
