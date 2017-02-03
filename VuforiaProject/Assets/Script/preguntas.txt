@@ -1,0 +1,59 @@
+﻿Hay gatos en un cajón, cada gato en un rincón, cada gato puede ver 3 gatos, ¿Cuántos gatos hay en el cajón?
+
+
+A) 4							B) 3							C) 2
+;Dos amigos ganarán 100€ por arar un terreno, lo dividen dos partes, como el primer amigo trabaja más rápido arará 2/3 mientras el segundo 1/3, si el terreno mide 80m cuadrados, ¿Cuánto ganará cada uno de los amigos?
+
+A) 66€ y 33€			B) 80€ y 20€		C) 50€  y 50€
+;Tengo tantas hermanas como hermanos, pero mis hermanos tienen la mitad de hermanos que de hermas.¿Cuántos somos?
+
+A) 3 hermanos y 4 hermanas	B) 4 hermanos y 3 hermanas  C) 1 hermano y 2 hermanas
+;¿Cuántas veces se cruzan las manecillas de un reloj analógico entre las 12 del mediodía y las doce de la noche?
+
+
+A) 10 						B) 12 						C) 9 
+;Hubo un tiempo en que un hombre tenía el doble de la edad de su mujer. Por supuesto, al año siguiente sólo tenía la edad de la mujer más la mitad.
+¿Cuántos años tiene la mujer, teniendo en cuenta que el hombre tiene ahora 44 años?
+A) 22						B) 43						C) 39
+;Un pastor tiene que pasar un lobo, una cabra y una lechuga a la otra orilla de un río, dispone de una barca en la que solo caben el y una de las otras tres cosas. 
+Si el lobo se queda solo con la cabra se la come, si la cabra se queda sola con la lechuga se la come, ¿En cuantos viajes puede lograrlo? (cada vez que cruza de una orilla a otra cuenta como un viaje).
+A)6							B)4							C)8
+;Un granjero tiene 10 conejos, 20 caballos y 40 cerdos. Si llamamos “caballos” a los “cerdos”, ¿cuántos caballos tendrá?
+
+
+A) 40							B) 60							C) 20
+;En una carrera un corredor adelanta al que va segundo, ¿En qué posición se encontrará el corredor?
+
+A) Primero						
+B) Segundo						
+C) Tercero
+;De cuatro corredores de atletismo se sabe que C ha llegado inmediatamente detras de B, y D ha llegado entre A y C.
+¿En que orden han llegado?
+
+
+A)B-C-D-A						B)A-B-D-C						C)A-D-C-B
+;El padre de Ana tiene 4 hijas. Una se llama Ena, otra Ina, la otra Ona, ¿Cómo se llama la otra hija?
+
+
+A) Una							B) Ana							C) Ene
+;A lo largo de una carretera hay cuatro pueblos seguidos: los Blanquenses viven al lado de los Verdanos, pero no de los Griseros, los Azulanos no viven al lado de los Grisenses.
+Entonces...¿Quienes son los vecinos de los Grisenses?
+A)Los Verdanos					B)Los Blanquenses				C)Ninguno de ellos
+;El hijo de John es el padre de mi hijo, ¿Que parentesco tengo con John?
+A)John es mi marido				
+
+B)Yo soy John					
+
+C)Yo soy el hijo de John
+;En una hilera de cuatro casas, los Brown viven al lado de los Smith pero no al lado de los Bruce. Si los Bruce no viven al lado de los Jones,
+¿Quiénes son los vecinos inmediatos de los Jones?
+
+A)Los Smith						B)Los Brown						C)Los Brown y los Smith
+;Hay dos padres y dos hijos en un banco, ¿Cuánta gente son?
+
+
+A) 4							B) 3							C) 2
+;Si 5 gatos cazan 5 ratones en 5 minutos, ¿Cuántos gatos cazarán 100 ratones en 100 minutos?
+
+
+A)100 gatos						B)50 gatos						C) 5 gatos
