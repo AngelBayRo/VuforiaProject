@@ -10,3 +10,15 @@ y por último un apartado de pelea donde se generan diferentes enemigos que debe
 
 Dicho proyecto tiene se encuentra en Unity de 64 bits con el plugin de Vuforia, además es completamente funcional
 generando la app para dispositivos Android.
+
+
+Como Autores del mismo estamos:
+
+Iván Barbosa Gutiérrez
+Cuenta GitHub: https://github.com/IvanBarbosa
+
+Ángel Bayón Romero
+Cuenta GitHub: Esta misma.
+
+Antonio Sánchez Roldán:
+Cuenta GitHub: https://github.com/Antojer
